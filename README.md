@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Amin Khorram</h1> 
 <h3 align="left">A passionate JavaScript/React developer.</h3>
  <img
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
 src="./data.gif"
   alt="coding..."
   align="right"
   width="500"
 />
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/amin khorram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amin khorram" height="30" width="40" /></a>
 </p>
