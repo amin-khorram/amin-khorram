@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amin Khorram</h1> 
 <h3 align="left">A passionate JavaScript/React developer.</h3>
  <img
-src="./data.gif"
+src="./dataanalyst.gif"
   alt="coding..."
   align="right"
   width="500"
