@@ -1,6 +1,6 @@
 ![MasterHead](./banner.jpg)
 <h1 align="center">Hi 👋, I am Amin Khorram</h1> 
-<h3 align="left">A passionate Machine Learning Specialist\ Data Scientist \ Data Analyst.</h3>
+<h3 align="left">A passionate Machine Learning Specialist\ Data Scientist \ Analytics Enthusiast.</h3>
  <img
 src="./dataanalyst.gif"
   alt="coding..."
