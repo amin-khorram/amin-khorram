@@ -64,8 +64,8 @@
   </a>
   <!-- Add additional languages and tools below -->
   <!-- For example, R, Julia, etc. -->
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_R_LOGO" alt="R" width="40" height="40" />
+  <a href="https://cloud.r-project.org" target="_blank" rel="noreferrer">
+    <img src="favicon.ico" alt="R" width="40" height="40" />
   </a>
   <!-- Add more languages and tools here -->
 </p>
